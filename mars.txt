@@ -1,4 +1,4 @@
 something
 another line
 This is our turn =)
-Another conflict!!
+Sorted!
